@@ -1,0 +1,7 @@
+this script intends to download host targets from Synack and write them to two different files on with the target name and one for this tool to process.
+
+Script that takes a CIDR or a file with a list of CIDRs, performs reverse DNS with hakrevdns, , cero, and gdn, and then runs httprobe on the results
+
+credits to original creator of the tool
+
+@hakluke @glebarez @kmskrishna
